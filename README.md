@@ -4,10 +4,11 @@
 This portfolio will outline work I've done in various languages and active projects.
 
 ---
-## Past Projects
-- [Pillager Towers]()
-- [Garage prints website]()
-- [Troop 695 2019 plant summer sale]()
+
+## [Past Projects](pastProjects/pastProjects.md)
+- [Pillager Towers](pastProjects/pastProjects.md#pillager-towers)
+- [Garage prints website](pastProjects/pastProjects.md)
+- [Troop 695 2019 plant summer sale](pastProjects/pastProjects.md)
 
 ## Current Knowledge
 ### Languages
@@ -33,13 +34,6 @@ This portfolio will outline work I've done in various languages and active proje
 - [Venturing Crew 3695 website]()
 - [EPHS App]()
 
-# Past Projects
-## Pillager Towers
-
-This was undertaken as a final project for AP Java, in which [Aidan](https://github.com/kelvinnkat) and I created a Forge Minecraft mod in which abandon structures were randomly generated in the world.
-
-![Image of Pillager Tower remote](https://github.com/EPCompSci/portfolio-2020-MerlinTheMafiaMortician/blob/master/src/pillagerTowers.png)
-![Image of Pillager Tower local](src/pillagerTowers.png)
 
 Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here.
 
