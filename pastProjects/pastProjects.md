@@ -1,10 +1,10 @@
 # Past Projects
-[Home](README.md)
 
 ## Pillager Towers
 
 This was undertaken as a final project for AP Java, in which [Aidan](https://github.com/kelvinnkat) and I created a Forge Minecraft mod in which abandon structures were randomly generated in the world.
 ![Image of Pillager Tower local](pillagerTowers.png)
+
 This project proved difficult as we had to take out limited syntax knowledge and expand it to true coding capabilities without guidance.  
 [Project code](https://github.com/MerlinTheMafiaMortician/pillagerTowers)
 

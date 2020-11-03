@@ -6,9 +6,9 @@ This portfolio will outline work I've done in various languages and active proje
 ---
 
 ## [Past Projects](pastProjects/pastProjects.md)
-- [Pillager Towers](pastProjects/pastProjects.md#pillager-towers)
-- [Garage prints website](pastProjects/pastProjects.md#garage-prints-website)
-- [Troop 695 2020 Summer Plant Sale Fundraiser](pastProjects/pastProjects.md#troop-695-2020-summer-plant-sale-fundraiser)
+- [Pillager Towers](https://github.com/EPCompSci/portfolio-2020-MerlinTheMafiaMortician/blob/master/pastProjects/pastProjects.md#pillager-towers)
+- [Garage prints website](https://github.com/EPCompSci/portfolio-2020-MerlinTheMafiaMortician/blob/master/pastProjects/pastProjects.md#garage-prints-website)
+- [Troop 695 2020 Summer Plant Sale Fundraiser](https://github.com/EPCompSci/portfolio-2020-MerlinTheMafiaMortician/blob/master/pastProjects/pastProjects.md#troop-695-2020-summer-plant-sale-fundraiser)
 
 ## [Current Knowledge]()
 ### [Languages]()
