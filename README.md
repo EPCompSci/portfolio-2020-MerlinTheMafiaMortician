@@ -1,37 +1,37 @@
 # Adrian Colaianni
-## 2020-2021 Portfolio
+2020-2021 Portfolio
 
 This portfolio will outline work I've done in various languages and active projects.
 
 ---
 ## Past Projects
-- [Pillager Towers](https://github.com/EPCompSci/portfolio-2020-MerlinTheMafiaMortician/pastProjects/pillagerTowers.md)
-- Garage prints website
-- Troop 695 2019 plant summer sale
+- [Pillager Towers]()
+- [Garage prints website]()
+- [Troop 695 2019 plant summer sale]()
 
 ## Current Knowledge
 ### Languages
-- SwiftUI
-- Python
-- Java
-- HTML
-- Markdown (as evidenced)
+- [SwiftUI]()
+- [Python]()
+- [Java]()
+- [HTML]()
+- [Markdown]() (as evidenced)
 - C Languages
-    - C
-    - C#
-    - C++
-    - .NET
-- MIT App Inventor
+    - [C]()
+    - [C#]()
+    - [C++]()
+    - [.NET]()
+- [MIT App Inventor]()
 ### IDEs
-- MIT App Inventor
-- Eclipse
-- IntelliJ IDEA
-- Visual Studio 2019
-- VS Code (what I wrote this in)
+- [MIT App Inventor]()
+- [Eclipse]()
+- [IntelliJ IDEA]()
+- [Visual Studio 2019]()
+- [VS Code]() (what I wrote this in)
 
 ## Active Projects
-- Venturing Crew 3695 website
-- EPHS App
+- [Venturing Crew 3695 website]()
+- [EPHS App]()
 
 Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here.
 
