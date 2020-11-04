@@ -5,7 +5,7 @@ This portfolio will outline work I've done in various languages and projects.
 
 ---
 
-## [Past Projects](pastProjects/pastProjects.md)
+## [Past Projects](pastProjects.md)
 - Pillager Towers
 - Garage prints website
 - Troop 695 2020 Summer Plant Sale Fundraiser
@@ -31,6 +31,6 @@ This portfolio will outline work I've done in various languages and projects.
 - VS Code (what I wrote this in)
 - MS Azure
 
-## [Active Projects](activeProjects/activeProjects.md)
+## [Active Projects](activeProjects.md)
 - Venturing Crew 3695 website
 - EPHS App
